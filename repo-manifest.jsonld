@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/joblib/joblib-spark/commit/6e9931f7a1bb2387845f5d78d3ba312ae5585bfe",
       "git:hexsha": "6e9931f7a1bb2387845f5d78d3ba312ae5585bfe",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/joblib/joblib-spark/commit/596f422ff3d7caf708cb36abd305b594958d9d0d",
