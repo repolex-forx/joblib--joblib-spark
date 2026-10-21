@@ -1,0 +1,11 @@
+{
+  "org": "joblib",
+  "repo": "joblib-spark",
+  "versions": [
+    {
+      "commit": "6e9931f7a1bb2387845f5d78d3ba312ae5585bfe",
+      "tag": "",
+      "parsed_at": "2026-10-21T20:09:03.184456+00:00"
+    }
+  ]
+}
